@@ -1,12 +1,12 @@
 
 
-#include <stdio.h>
-
 /*
  *main - working with puts function
  *
- * Return always 0
+ * Return always 
+ *
  */
+#include <stdio.h>
 
 int main(void)
 {
