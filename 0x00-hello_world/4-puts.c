@@ -1,6 +1,6 @@
 
 
-#include <stidio.h>
+#include <stdio.h>
 /**
  *main - working with puts function
  *
