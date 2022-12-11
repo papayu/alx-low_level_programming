@@ -1,13 +1,14 @@
 
-/*
- *working with puts on my first C programming with Alx.
- *
- * */
-
 
 #include <stdio.h>
 
-int main()
+/*
+ *main - working with puts function
+ *
+ * Return always 0
+ * */
+
+int main(void)
 {
 
 char program[] = "Programming is like building a multilingual puzzle";
@@ -16,5 +17,5 @@ char program[] = "Programming is like building a multilingual puzzle";
 puts(program);
 
 
-return(0);
+return (0);
 }
