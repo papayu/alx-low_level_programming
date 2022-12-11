@@ -1,17 +1,15 @@
 
 
-/*
+#include <stidio.h>
+/**
  *main - working with puts function
  *
- * Return always 
- *
+ * Return: Always 0
  */
-#include <stdio.h>
-
 int main(void)
 {
 
-char program[] = ""Programming is like building a multilingual puzzle"";
+char program[] = "\"Programming is like building a multilingual puzzle";
 
 
 puts(program);
