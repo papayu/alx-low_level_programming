@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- *main - using the printf
+ * main - using the printf
  *
- *return: Always 0
+ * Return: Always 0
  *
  */
  
  
- int main (void)
+ int main(void)
 {
  
  printf ("with proper grammar, but the outcome is a piece of art,\n");
