@@ -11,7 +11,7 @@
 int main(void)
 {
 
-char program[] = ""Programming is like building a multilingual puzzle";
+char program[] = ""Programming is like building a multilingual puzzle"";
 
 
 puts(program);
