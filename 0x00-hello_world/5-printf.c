@@ -2,11 +2,11 @@
 
 /**
  *
- *  * main - main block for prinf
+ * main - main block for prinf
  *
- *   * Return: 0
+ * Return: 0
  *
- *    */
+ */
 
 int main(void)
 
@@ -14,7 +14,7 @@ int main(void)
 
 
 
-			printf("with proper grammar, but the outcome is a piece of art,\n");
+pintf("with proper grammar, but the outcome is a piece of art,\n");
 
 
 
