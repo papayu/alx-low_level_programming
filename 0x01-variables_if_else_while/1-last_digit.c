@@ -5,7 +5,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Last digits.
  *
  *
