@@ -1,8 +1,9 @@
-
+#include <stdio.h>
+#include <unistd.h>
 /**
- * main - using Writes 
+ * main - using Writes as Printf is out
  *
- * Return: 1
+ * Return: 1 if success
  */
 int main(void)
 {
