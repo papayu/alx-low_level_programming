@@ -17,8 +17,7 @@ while (n <= 57) /*57 corresponds with ASCII character 9*/
 
 {
 
-putchar (n);
-	
+putchar (n);	
 if (n != 57)
 
 {
