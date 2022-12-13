@@ -15,21 +15,18 @@ int main(void)
 
 {
 
-		int i = '0';
-
+int i = '0';
 
 
 while (i <= '9')
 {
+putchar(i);
+i++;
 
-								putchar(i);
+	}
 
-										i++;
+putchar('\n');
 
-											}
-
-				putchar('\n');
-
-					return (0);
+return (0);
 
 }
