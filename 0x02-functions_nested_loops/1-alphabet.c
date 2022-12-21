@@ -3,7 +3,7 @@
  * main - Print alphabet in lowercase using only `_putchar`
  *
  */
-void print_alphabet(void);/*Print alphabet*/
+void print_alphabet(void)/*Print alphabet*/
 {
 
 char lca;
