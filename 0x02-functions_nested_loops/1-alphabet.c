@@ -2,18 +2,15 @@
 /**
  * main - Print alphabet in lowercase using only `_putchar`
  *
- *  * Return: 0
  */
-void print_alphabet(void)
+void print_alphabet(void);/*Print alphabet*/
 {
 
-char c = 'a';
+char lca;
 
-while (c <= 'z')
-{
-	_putchar(c);
-	c++;
-}
+for (lca = 'a'; lca <= 'z'; lca++)
+	_putchar(lca);
+
 _putchar('\n');
 
 }
