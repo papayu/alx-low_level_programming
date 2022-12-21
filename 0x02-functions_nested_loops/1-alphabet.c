@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main - Print alphabet in lowercase using only `_putchar`
+ * main - Print_alphabet in lowercase using only `_putchar`
  *
  */
-void print_alphabet(void)/*Print alphabet*/
+void print_alphabet(void)
 {
 
 char lca;
